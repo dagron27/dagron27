@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Leone
 
-**Systemic Engineer | Technical Artist | XR & Simulation Developer**
+**Software Engineer | XR & Simulation Developer**
 
 I am a software engineer focused on building immersive, interlocking simulations and interactive systems. With a background blending a B.S. in Computer Science, a Doctor of Chiropractic degree, and a decade of leadership as a Staff Sergeant in the US Army, I approach development with a unique mix of an artist's vision, an engineer's rigor, and an operator's discipline.
 
