@@ -6,7 +6,7 @@ I am a software engineer focused on building immersive, interlocking simulations
 
 Currently, I am actively developing cross-platform XR educational experiences and systemic simulations utilizing **Unity 6, Unreal Engine 5, C++, and C#**, accelerated by generative AI asset pipelines (Meshy, ElevenLabs, Midjourney). 
 
-The repositories below represent my foundational work in low-level systems programming, machine learning, data architecture, and software quality assurance—the critical mechanics required to build robust, scalable interactive worlds.
+The repositories below represent my foundational work in low-level systems programming, machine learning, and data architecture—the critical mechanics required to build robust, scalable interactive worlds.
 
 ---
 
@@ -42,9 +42,3 @@ The repositories below represent my foundational work in low-level systems progr
 *   **[Movie Database & Index Performance](https://github.com/dagron27/movie-database-indexed.git)**: SQL architecture demonstration featuring a Flask backend designed to empirically benchmark B-tree index performance at scale.
 *   **[Restaurant Menu App](https://github.com/dagron27/restaurant-menu-app.git)**: Full-stack PHP/MySQL application featuring rigorous XSS defense-in-depth mitigations and automated CI/CD environment integration.
 *   **[Book Review Database App](https://github.com/dagron27/book-review-database-app.git)**: Relational database design modeling complex entities and backend API integration.
-
-### Software Quality Assurance (QA) & Testing
-*Building systems that verify their own integrity.*
-
-*   **[Snake App with Test Modules](https://github.com/dagron27/snake-app-with-test-modules.git)**: Java Swing interactive application built around a rigorous JUnit 5 suite, featuring test doubles and reflection-based private state validation.
-*   **[Java Calculator CI with Testing](https://github.com/dagron27/java-calculator-ci-with-testing.git)**: Java testing environment demonstrating test runner audits, guard clause validation, and GitHub Actions CI pipelines.
